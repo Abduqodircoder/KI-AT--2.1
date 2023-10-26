@@ -1,12 +1,20 @@
 12.10.23
-Mo'minov Ikromjon 23 23
-Karimov jahongir 18
-Qurbonov Abdumutalib  18
-Jumaboyev Izztillo 18
-Xakimova 21
-Abdulazizov 23
-G'ulomjonov 18
-Nasridionova 18
-Maripjonova 18
-Baxridinova 18
+Mo'minov Ikromjon 23 23 24
+Karimov jahongir 18 18
+Qurbonov Abdumutalib  18 18
+Jumaboyev Izztillo 18 21
+Xakimova 21 23
+Abdulazizov 23 
+G'ulomjonova 18 18
+Nasridionova 18 18
+Maripjonova 18 18
+Baxridinova 18 18
+Abduholiqov 18
+O'ktamov 18
+Bahridinova 18
+Jumaboyeva 18
+Muhammadjonova 18
+G'ulomjonova 18
+Rajabboyev 18
+
 
